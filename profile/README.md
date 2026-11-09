@@ -16,7 +16,7 @@ Browse everything developed in the center — public repositories and in-house p
 | Imaging & microscopy | napari-fast4dreg, nd-registration |
 
 ## Agentic AI
-Reusable skills and agents for bioinformatics work: *coming soon* — `bioit-skills` repository.
+Reusable skills and agents for bioinformatics work: [bioit-skills](https://github.com/VIB-CCB-BioIT/bioit-skills).
 
 ## Stay informed
 - **New releases of one tool:** open the repo → **Watch → Custom → Releases**.
