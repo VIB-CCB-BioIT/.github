@@ -3,7 +3,7 @@
 Bioinformatics tools, pipelines, benchmarks and AI skills from the VIB Center for Cancer Biology.
 
 ## Tools & pipelines
-Browse everything developed in the center — public repositories and in-house pipelines you can ask about:
+Browse everything developed in the center: public repositories and in-house pipelines you can ask about:
 
 **[Catalog of tools & pipelines](https://github.com/VIB-CCB-BioIT/tools-catalog)**
 
